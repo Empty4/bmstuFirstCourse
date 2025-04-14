@@ -18,4 +18,11 @@ int main(){
     }
     
     return 0;
+    //git init
+    //git remote
+    //git add . #всё
+    //git commit -m ""
+    // git push origin master
+    //токен как пароль
+
 }
