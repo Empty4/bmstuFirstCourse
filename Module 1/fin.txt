@@ -1,0 +1,5 @@
+sasha 120000 rub 4.5
+masha 200000 dol 3.2
+fofa 1000 evr 7.4
+fofa1 150000 rub 8
+sasha1 120000 pup 4.5

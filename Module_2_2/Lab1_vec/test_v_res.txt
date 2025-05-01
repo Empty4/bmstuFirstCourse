@@ -1,0 +1,37 @@
+Ractangle 1
+Hight: 5
+Weigth: 10
+Square: 50
+Ractangle 2
+Hight: 5
+Weigth: 20
+Square: 100
+Ractangle 3
+Hight: 4
+Weigth: 30
+Square: 120
+Ractangle 4
+Hight: 5
+Weigth: 4
+Square: 20
+Ractangle 5
+Hight: 3
+Weigth: 20
+Square: 60
+Ractangle 6
+Hight: 5
+Weigth: 15
+Square: 75
+
+Square >= max
+
+Ractangle 1
+Square: 50
+Ractangle 2
+Square: 100
+Ractangle 3
+Square: 120
+Ractangle 5
+Square: 60
+Ractangle 6
+Square: 75
