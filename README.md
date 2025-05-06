@@ -1,2 +1,1 @@
-##Hader
-First course of Bauman IT8
+#First course of Bauman IT8S
